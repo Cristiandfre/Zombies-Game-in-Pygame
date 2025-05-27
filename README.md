@@ -6,7 +6,6 @@
 ## 🚀 Features  
 - 🎨 **Retro arcade-style** visuals.  
 - 🏃 **Fast-paced gameplay** with increasing difficulty.  
-- 🔫 **Weapon system** to fight off waves of zombies.  
 - 💀 **Endless survival mode**—fight until the inevitable!  
 
 ## 🏗️ Installation  
